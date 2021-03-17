@@ -2,7 +2,8 @@ body {
     background-color: Snow;
     font-family: "Georgia", serif;
     font-size: 12pt;
-    width:65%;
+    width: 65%;
+    max-width: 66;
     margin: 2em auto;
 }
 p {
